@@ -1,4 +1,4 @@
-<Практическое задание №1>
+<<<Практическое задание №1>>>
 
 Студент: РИМ-130908 - Земов В.А.
 
@@ -14,7 +14,7 @@
 word1:freq1
 word2:freq2
 word3:freq3
-
+.....
 wordN:freqN
 
 <exercise_ID_2:>
@@ -23,7 +23,7 @@ wordN:freqN
 average1
 average2
 average3
-
+....
 averageN
 
 <exercise_ID_3:>
